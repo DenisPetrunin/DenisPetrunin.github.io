@@ -1,2 +1,2 @@
-# DenisPetrunin.github.io
+# Денис Петрунин
 Мои первый сайт
